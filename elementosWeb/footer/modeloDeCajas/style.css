@@ -1,0 +1,56 @@
+
+body{
+	margin: 0;
+	padding: 0;
+}
+
+li{
+	list-style: none;
+}
+
+.cajaMama{
+	width: 100vw;
+	position: absolute;
+	bottom: 0;
+	background-color: blue;
+	height: 300px;
+	display: flex;
+
+	align-items:  center;
+	justify-content: space-between;
+
+
+}
+
+.hijos{
+	display: flex;
+	margin-right: 3%;
+	
+}
+.cajaHijo{
+
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	margin-right: 4px;
+
+
+
+}
+
+.cajaTios{
+	width: 100px;
+	height: 100px;
+	background-color: black;
+	margin-top: 200px;
+	
+	
+}
+
+.cajaPrimo{
+	width: 100px;
+	height: 100px;
+	background-color: yellow;
+	margin-left: 3%;
+
+}
