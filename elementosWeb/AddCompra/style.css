@@ -1,0 +1,35 @@
+body{
+	color: orange;
+	background-color: black;
+}
+.myBtn{
+	width: 50px; height: 50px; border-radius: 50%; background-color: blue;
+}
+
+#left{
+	width:50px;height: 30px; background-color: #ada8ad;
+}
+
+#right{
+	width:50px;height: 30px;background-color: #ada8ad;
+}
+
+#navBar{
+	width:300px; height: 29px; background-color: #e6e6e6; display: flex; justify-content: space-between;
+}
+
+#imageBox{
+	width:300px;height: 350px;background-color: #0f4d73; border-radius: 5px;
+}
+
+#saleBox{
+	width:320px;height: 400px;background-color: #126ca3; padding-top: 10px;
+}
+
+#show{
+	width:250px;	height: 250px;	border:1px solid #000;
+}
+
+.smallImage {
+	height: 50px; width: 50px; border-radius: 5px; border: 3px solid black;
+}
